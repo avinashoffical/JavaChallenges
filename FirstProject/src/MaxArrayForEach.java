@@ -1,6 +1,6 @@
 
-
 public class MaxArrayForEach {
+
     public static void main(String[] args) {
         System.out.println("Welcome to finding the Maximum");
         int[] arr=ArrayUtilityMethod.inputArray();

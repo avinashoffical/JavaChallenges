@@ -1,3 +1,5 @@
+package in.project;
+
 import java.util.Scanner;
 
 public class Packages {

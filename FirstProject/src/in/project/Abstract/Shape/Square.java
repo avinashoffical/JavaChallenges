@@ -1,4 +1,4 @@
-package in.project.Abstract;
+package in.project.Abstract.Shape;
 
 public class Square extends Shape{
 

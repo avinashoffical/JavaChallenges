@@ -4,6 +4,7 @@ public class ArrayOperations {
     private int[] number;
 
     public ArrayOperations(int[] number) {
+
         this.number = number;
     }
 
